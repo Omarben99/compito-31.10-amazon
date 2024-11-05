@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   
-  /* Header and color changes */
+ 
   .bg-dark {
     background-color: #1b2836; /* Darker shade */
   }
@@ -29,7 +29,7 @@
     margin-right: 0.8rem;
   }
   
-  /* Header styles with fixed positioning */
+
   header {
     position: fixed;
     top: 0;
@@ -66,7 +66,7 @@
     padding: 2.5rem;
   }
   
-  /* Row and image adjustments */
+
   .row {
     width: 100%;
     text-align: center;
@@ -100,7 +100,7 @@
     margin-top: 1.5rem;
   }
   
-  /* Footer styles */
+
   footer {
     width: 100%;
     text-align: center;
@@ -118,7 +118,7 @@
     height: 55px;
   }
   
-  /* Background image style */
+ 
   #bg-image {
     background-image: url("./assets/bg-image.png");
     width: 100%;
@@ -127,7 +127,7 @@
     background-position: center;
   }
   
-  /* Card styles */
+
   .cards-row {
     width: 100%;
     margin-top: 2rem;
@@ -172,7 +172,7 @@
     color: #006b8d;
   }
   
-  /* Adjusted icon position in card */
+
   .quadrant-container img.bottom-right-corner {
     position: absolute;
     right: -8px;
